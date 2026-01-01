@@ -345,3 +345,4 @@ python3 -m site --user-base
 export PATH=$PATH:/home/camper/.local/bin
 pgcli --version
 pgcli -U freecodecamp -d mario_database
+pgcli -U freecodecamp -d mario_database
